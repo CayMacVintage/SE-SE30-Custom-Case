@@ -19,4 +19,10 @@ https://www.amzn.com/B07KRSXKB1
 Rocker Switch:
 https://www.amazon.com/DB07S2QJKTX
 
-For LEDs to display at the front of the case, use Dupont female end cable (be sure it is long enough) and 3mm through hole LED of the color you desire. Cut the posts to length to insert into the female end of the Dupont cable. Be sure to identify and mark which leg is positive as positive as to connect to the proper positive pin on the Compact board. I make my own cables to length and use the proper JST connector on the board end.
+For LEDs to display at the front of the case, use Dupont female end cable (be sure it is long enough) and 3mm through hole
+LED of the color you desire. Cut the posts to length to insert into the female end of the Dupont cable. Be sure to identify
+and mark which leg is positive as positive as to connect to the proper positive pin on the Compact board. I make my own 
+cables to length and use the proper JST connector on the board end.
+
+I use a Bambu A1 printer with the default settings to print the parts in PLA. I use manual tree support on the larger hanging
+items like the SCSI and Floppy openings on the back of the bottom piece. Beyond that, no other supports and just default settings.
