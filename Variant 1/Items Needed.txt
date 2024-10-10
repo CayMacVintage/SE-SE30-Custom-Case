@@ -17,7 +17,7 @@ Fan you can use either a 5v or 12v but if you want to use the Smart Fan Control 
 https://www.amzn.com/B07KRSXKB1
 
 Rocker Switch:
-https://www.amazon.com/DB07S2QJKTX
+https://www.amzn.com/DB07S2QJKTX
 
 For LEDs to display at the front of the case, use Dupont female end cable (be sure it is long enough) and 3mm through hole
 LED of the color you desire. Cut the posts to length to insert into the female end of the Dupont cable. Be sure to identify
