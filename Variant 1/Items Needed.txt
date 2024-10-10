@@ -1,0 +1,22 @@
+Items needed for Variant 1 or Variant 2 of the CayMac Vintage Custom case:
+
+Brass screw inserts:
+ttps://www.amzn.com/B08BCRZZS3
+
+Speakers no amplifier:
+https://www.amzn.com/B0CT83TMNW
+
+Speakers with amplifier:
+https://www.amzn.com/B07CRVRG83
+
+
+HDMI ribbon cable with the correct ends:
+https://www.amzn.com/B08CV6MCVM
+
+Fan you can use either a 5v or 12v but if you want to use the Smart Fan Control and connector you need to use a 12v:
+https://www.amzn.com/B07KRSXKB1
+
+Rocker Switch:
+https://www.amazon.com/DB07S2QJKTX
+
+For LEDs to display at the front of the case, use Dupont female end cable (be sure it is long enough) and 3mm through hole LED of the color you desire. Cut the posts to length to insert into the female end of the Dupont cable. Be sure to identify and mark which leg is positive as positive as to connect to the proper positive pin on the Compact board. I make my own cables to length and use the proper JST connector on the board end.
