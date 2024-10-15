@@ -19,7 +19,8 @@ This version of the case has no FloppyEMU on the front, no audio amplifier conne
 
 # Variant 2
 
-To be added at a later date
+- Top that has FloppyEMU and Amplifier and all other items. Use the same bottom from variant 1
+- and the items needed file from variant 1.
 
 # Variant 3
 
